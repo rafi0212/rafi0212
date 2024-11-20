@@ -1,6 +1,6 @@
 # 🌐 Muhammad Rafi Saputra — Fullstack Developer
 
-![Banner](https://via.placeholder.com/1200x400?text=Welcome+to+My+GitHub+Repository)
+
 
 Hi! I'm Muhammad Rafi Saputra, a passionate **Fullstack Developer** who loves building modern, scalable, and user-friendly web applications. From concept to deployment, I specialize in creating impactful digital experiences.
 
@@ -23,6 +23,14 @@ Hi! I'm Muhammad Rafi Saputra, a passionate **Fullstack Developer** who loves bu
 - 🧠 **Other Skills:** Problem Solving, System Design  
 
 ---
+## 🛠️ My Skills  
+
+Frontend: ██████████ 90%
+Backend:  ████████░░ 80%
+Database: ███████░░░ 90%
+DevOps:   █████░░░░░ 60%
+
+
 
 ## 📈 GitHub Stats  
 
