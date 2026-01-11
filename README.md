@@ -81,7 +81,7 @@ DevOps:   █████░░░░░ 60%
 
 ## 📬 Get in Touch  
 
-- 📝 **Portfolio:** [muhammadrafisaputra.github.io](https://yourportfoliolink.com)  
+- 📝 **Portfolio:** [muhammadrafisaputra.github.io](https://rafi0212.github.io/Rafisaputra.github.io/)  
 - ✉️ **Email:** [rafi@example.com](mailto:rafi@example.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/muhammadrafisaputra](https://linkedin.com/in/yourlink)  
 
